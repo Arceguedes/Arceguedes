@@ -10,19 +10,24 @@
 I'm a brazilian dev who is currently a junior level in Javascript/typescript and studying JAVA POO.
 Graduating in computer science, I try to spend most of my time looking for ways to materialize my projects as optimized as possible.
 
+<h4>You can also find me on Linkedin:</h4>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arceguedes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arceguedes/" height="30" width="40" /></a>
+</p>
+
 ## 🚀 My projects
-<h4>🍟 09/29/2022 - iFood DEV WEEK (Coming soon)</h4>
+<h3>🍟 09/29/2022 - iFood DEV WEEK (Coming soon)</h3>
 Made during iFood Dev Week #5. iFood is a brazilian app that works like uber eats.
 In their 5# event, we made an online cart that simulates the one that they currently use in their app.
 
 Link: -COMING SOON-
 
-<h4>09/18/2022 - </h4>
+<h3>09/18/2022 - </h3>
 This is a exercise made in one of my classes of Javascript to practice programming logic.
 
 Link: 
 
-<h4>07/16/2022 - </h4>
+<h3>07/16/2022 - </h3>
 A simple website using Javascript, HTML and CSS to calculate the cost of labor
 
 Link: 
