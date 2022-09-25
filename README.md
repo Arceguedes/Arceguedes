@@ -12,7 +12,7 @@ Graduating in computer science, I try to spend most of my time looking for ways 
 
 <h4>You can also find me on Linkedin:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arceguedes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arceguedes/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arceguedes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arceguedes/" height="30" width="40" /></a>
 </p>
 
 ## 🚀 My projects
