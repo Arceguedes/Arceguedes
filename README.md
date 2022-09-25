@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Julia Arce</h3>
+  <h2 align="center">JULIA ARCE</h3>
 </p>
 
 <p align="center">
