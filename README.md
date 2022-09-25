@@ -1,12 +1,12 @@
 <p align="center">
   <h3 align="center">Julia Arce</h3>
-  <h4>This readme is being edited right now</h4>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+BACK-END+WEB+DEVELOPER" alt="Typing SVG" /></a>
 
 ## ⚡ About me
+<h4>This readme is being edited right now</h4>
 I'm a brazilian dev who is currently a junior level in Javascript/typescript and studying JAVA POO.
 Graduating in computer science, I try to spend most of my time looking for ways to materialize my projects as optimized as possible.
 
