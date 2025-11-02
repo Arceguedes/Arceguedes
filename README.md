@@ -6,9 +6,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=BACK-END+DEVELOPER" alt="Typing SVG" /></a></p>
 
 ## ⚡ About me
-<h4>This readme is being edited right now</h4>
-A Junior DEV who loves JAVA!
-Graduating in computer science and working in a Brazilian Tech company , I have practical experience with both JAVA and Javascript (working as back and front-end).
+
 
 <h4>You can also find me on Linkedin:</h4>
 <p align="left">
@@ -17,9 +15,6 @@ Graduating in computer science and working in a Brazilian Tech company , I have 
 
 ## 🚀 My projects
 <h3>Work In Progress</h3>
-I am constantly Improving myself as a DEV, and old projects doesn't looks good nowdays to me. Vacations may fill this profile with projects pretty soon.
-
-Link: coming Soon.
 
 ## ⚙ Languages and technologies
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
